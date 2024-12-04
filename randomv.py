@@ -33,7 +33,7 @@ shift_blocks = [
     "14:00-16:00", "16:00-18:00", "18:00-20:00", "20:00-22:00",
     "04:00-06:00"
 ]
-workers = ["Alice", "Bob", "Charlie", "Diana", "Eve"]
+workers = ["이충호", "나대현", "오재현", "노우진", "오재현"]
 max_shifts_per_day = 4
 days_in_month = 30
 
